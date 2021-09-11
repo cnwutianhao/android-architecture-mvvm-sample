@@ -2,6 +2,14 @@
 
 **A basic Model-View-ViewModel (MVVM) architecture without using any architectural frameworks.**
 
+👉 [Java Version](https://github.com/cnwutianhao/android-architecture-mvvm-sample/tree/main/Java)
+<br/>Reference: https://github.com/android/architecture-samples/tree/todo-mvvm-live
+<br/>
+<br/>
+👉 [Kotlin Version](https://github.com/cnwutianhao/android-architecture-mvvm-sample/tree/main/Kotlin)
+<br/>Reference: https://github.com/android/architecture-samples/tree/todo-mvvm-live-kotlin
+<br/>
+
 ### License
 Copyright 2021 Tyhoo Wu.
 <br/>
